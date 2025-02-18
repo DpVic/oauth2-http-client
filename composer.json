@@ -27,7 +27,8 @@
         "sylius-labs/coding-standard": "^4.2",
         "symfony/cache": "^6.0",
         "symfony/http-client": "^6.0",
-        "vimeo/psalm": "^4.26"
+        "vimeo/psalm": "^6.0",
+        "rector/rector": "^2.0"
     },
     "provide": {
         "symfony/http-client-implementation": "^2.3.1"
